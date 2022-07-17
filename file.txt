@@ -3,4 +3,4 @@ if(condition) {
 } else {
   /// condition - false  
 }
-ы
+1
