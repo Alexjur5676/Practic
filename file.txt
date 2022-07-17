@@ -1,0 +1,6 @@
+if(condition) {
+/// condition - true
+} else {
+  /// condition - false  
+}
+ы
